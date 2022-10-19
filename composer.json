@@ -1,0 +1,21 @@
+{
+    "name": "jhonycreativo/jc-bofel",
+    "description": "Facturacion electronica bolivia",
+    "autoload": {
+        "psr-4": {
+            "Jhonycreativo\\JcBofel\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+          "Jhonycreativo\\JcBofel\\Tests": "tests/"
+        }
+      },
+    "authors": [
+        {
+            "name": "Jhony Creativo",
+            "email": "jhonycreativo.code@gmail.com"
+        }
+    ],
+    "require": {}
+}
